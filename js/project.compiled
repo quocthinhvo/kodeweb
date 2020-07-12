@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\kc\bin\kc.exe" Date="1357389355"/>
+  <Params Value=" -Tbrowser -Pecmascript5 -MObjFPC -Sc -O1 -l -vewnhibq -FiC:\Users\quoct\Desktop\web\js -FuC:\Users\quoct\Desktop\web\ -FUC:\Users\quoct\Desktop\web\js\ -FEC:\Users\quoct\Desktop\web\ -oC:\Users\quoct\Desktop\web\project.js -Jeutf-8 -Jirtl.js -Jc -Jminclude project.pas"/>
+</CONFIG>

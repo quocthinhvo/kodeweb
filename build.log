@@ -1,0 +1,90 @@
+SetupCompilerFilename: The compiler path "fpc" => "" is invalid (Error: file not found) Searching a proper one ...
+SearchCompilerCandidates Value=fpc File=
+SearchCompilerCandidates Value=fpc File=
+SearchCompilerCandidates Value=fpc.exe File=C:\FPC\3.0.4\bin\i386-Win32\fpc.exe
+Hint: (kode) [RunTool] "C:\FPC\3.0.4\bin\i386-Win32\fpc.exe" "-iWTOTP"
+Hint: (kode) [RunTool] "C:\FPC\3.0.4\bin\i386-Win32\fpc.exe" "-va" "compilertest.pas"
+SetupCompilerFilename: using C:\FPC\3.0.4\bin\i386-Win32\fpc.exe
+Hint: (kode) [TPackageLinks.UpdateUserLinks] using LastUsed date of old lcl 2.1 for lcl 2.0.8 in M:\kode\src\lcl\interfaces\lcl.lpk
+Hint: (kode) [TPackageLinks.UpdateUserLinks] using LastUsed date of old lclbase 2.1 for lclbase 2.0.8 in M:\kode\src\lcl\lclbase.lpk
+Hint: (kode) [RunTool] "C:\kc\bin\kc.exe" "-iWTOTP" "-Tbrowser"
+Hint: (kode) [RunTool] "C:\kc\bin\kc.exe" "-va" "compilertest.pas" "-Tbrowser"
+Hint: (kode) [RunTool] "C:\kc\bin\kc.exe" "-iWTOTP"
+Hint: (kode) [RunTool] "C:\kc\bin\kc.exe" "-va" "compilertest.pas"
+Hint: (kode) [RunTool] "C:\kc\bin\kc.exe" "-iWTOTP" "-Pecmascript5" "-Tbrowser"
+Hint: (kode) [RunTool] "C:\kc\bin\kc.exe" "-va" "compilertest.pas" "-Pecmascript5" "-Tbrowser"
+Info: (kode) Execute Title="Compile Project, OS: browser, CPU: ecmascript5, Target: project.js"
+Info: (kode) Working Directory="C:\Users\quoct\Desktop\web\"
+Info: (kode) Executable="C:\kc\bin\kc.exe"
+Info: (kode) Param[0]="-B"
+Info: (kode) Param[1]="-Tbrowser"
+Info: (kode) Param[2]="-Pecmascript5"
+Info: (kode) Param[3]="-MObjFPC"
+Info: (kode) Param[4]="-Sc"
+Info: (kode) Param[5]="-O1"
+Info: (kode) Param[6]="-l"
+Info: (kode) Param[7]="-vewnhibq"
+Info: (kode) Param[8]="-FiC:\Users\quoct\Desktop\web\js"
+Info: (kode) Param[9]="-FuC:\Users\quoct\Desktop\web\"
+Info: (kode) Param[10]="-FUC:\Users\quoct\Desktop\web\js\"
+Info: (kode) Param[11]="-FEC:\Users\quoct\Desktop\web\"
+Info: (kode) Param[12]="-oC:\Users\quoct\Desktop\web\project.js"
+Info: (kode) Param[13]="-Jeutf-8"
+Info: (kode) Param[14]="-Jirtl.js"
+Info: (kode) Param[15]="-Jc"
+Info: (kode) Param[16]="-Jminclude"
+Info: (kode) Param[17]="project.pas"
+Kode Compiler version 1.0.0 [2020/07/08] for Win32 i386
+Info: (132) Message encoding is utf-8
+Visit https://kodelang.dev/kc to see more info
+Info: (126) Parsing C:\Users\quoct\Desktop\web\project.pas ...
+Info: (126) Parsing C:\kc\packages\rtl\system.pas ...
+Info: (126) Parsing C:\kc\packages\fcl-base\browserapp.pas ...
+Info: (126) Parsing C:\kc\packages\rtl\js.pas ...
+Info: (126) Parsing C:\kc\packages\rtl\classes.pas ...
+Info: (126) Parsing C:\kc\packages\rtl\sysutils.pas ...
+Info: (126) Parsing C:\kc\packages\rtl\web.pas ...
+C:\kc\packages\rtl\web.pas(19,10) Info: (2031) Start parsing interface section
+Info: (126) Parsing C:\kc\packages\rtl\types.pas ...
+C:\kc\packages\rtl\types.pas(17,10) Info: (2031) Start parsing interface section
+C:\kc\packages\rtl\sysutils.pas(19,10) Info: (2031) Start parsing interface section
+Info: (126) Parsing C:\kc\packages\rtl\rtlconsts.pas ...
+C:\kc\packages\rtl\rtlconsts.pas(15,10) Info: (2031) Start parsing interface section
+C:\kc\packages\rtl\classes.pas(17,10) Info: (2031) Start parsing interface section
+Info: (126) Parsing C:\kc\packages\rtl\typinfo.pas ...
+C:\kc\packages\rtl\typinfo.pas(18,10) Info: (2031) Start parsing interface section
+C:\kc\packages\rtl\js.pas(18,10) Info: (2031) Start parsing interface section
+C:\kc\packages\fcl-base\browserapp.pas(5,10) Info: (2031) Start parsing interface section
+Info: (126) Parsing C:\kc\packages\fcl-base\custapp.pas ...
+C:\kc\packages\fcl-base\custapp.pas(6,10) Info: (2031) Start parsing interface section
+C:\kc\packages\rtl\system.pas(18,10) Info: (2031) Start parsing interface section
+C:\kc\packages\rtl\system.pas(396,15) Info: (2030) Start parsing implementation section.
+C:\kc\packages\rtl\rtlconsts.pas(84,15) Info: (2030) Start parsing implementation section.
+C:\kc\packages\rtl\types.pas(62,15) Info: (2030) Start parsing implementation section.
+C:\kc\packages\rtl\js.pas(924,15) Info: (2030) Start parsing implementation section.
+C:\kc\packages\rtl\web.pas(3734,15) Info: (2030) Start parsing implementation section.
+C:\kc\packages\rtl\sysutils.pas(1091,14) Warning: (5078) Symbol "Single" is not implemented
+C:\kc\packages\rtl\sysutils.pas(1148,15) Info: (2030) Start parsing implementation section.
+C:\kc\packages\rtl\typinfo.pas(494,15) Info: (2030) Start parsing implementation section.
+C:\kc\packages\rtl\classes.pas(1413,15) Info: (2030) Start parsing implementation section.
+Info: (126) Parsing C:\kc\packages\rtl\simplelinkedlist.pas ...
+C:\kc\packages\rtl\simplelinkedlist.pas(5,10) Info: (2031) Start parsing interface section
+C:\kc\packages\rtl\simplelinkedlist.pas(38,15) Info: (2030) Start parsing implementation section.
+C:\kc\packages\fcl-base\custapp.pas(100,15) Info: (2030) Start parsing implementation section.
+C:\kc\packages\fcl-base\browserapp.pas(30,15) Info: (2030) Start parsing implementation section.
+C:\Users\quoct\Desktop\web\project.pas(6,15) Hint: (5023) Unit "JS" not used in project
+C:\Users\quoct\Desktop\web\project.pas(6,28) Hint: (5023) Unit "SysUtils" not used in project
+Info: (127) Compiling "C:\Users\quoct\Desktop\web\project.pas" ...
+Info: (127) Compiling "C:\kc\packages\rtl\system.pas" ...
+Info: (127) Compiling "C:\kc\packages\fcl-base\browserapp.pas" ...
+Info: (127) Compiling "C:\kc\packages\rtl\classes.pas" ...
+Info: (127) Compiling "C:\kc\packages\rtl\rtlconsts.pas" ...
+Info: (127) Compiling "C:\kc\packages\rtl\types.pas" ...
+Info: (127) Compiling "C:\kc\packages\rtl\sysutils.pas" ...
+Info: (127) Compiling "C:\kc\packages\rtl\js.pas" ...
+Info: (127) Compiling "C:\kc\packages\rtl\web.pas" ...
+Info: (127) Compiling "C:\kc\packages\fcl-base\custapp.pas" ...
+Info: (117) Writing file "C:\Users\quoct\Desktop\web\project.js" ...
+Info: (117) Writing file "C:\Users\quoct\Desktop\web\project.js.map" ...
+Info: (129) 27194 lines in 12 files compiled, 1.0 secs
+
